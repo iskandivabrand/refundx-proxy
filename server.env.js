@@ -1,0 +1,3 @@
+SHOPIFY_ADMIN_TOKEN=shpat_xxxxxxxxxxxxxxxxxxxxx
+SHOPIFY_API_SECRET=xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+PORT=3000
